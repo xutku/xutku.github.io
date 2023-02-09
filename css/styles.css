@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /*!
-
+.icon{
+  border-radius:10px;
  */
 :root {
   --bs-blue: #0d6efd;
